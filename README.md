@@ -1,3 +1,6 @@
+<p align="center">
+      <img src="https://static.nachasi.com/wp-content/uploads/2021/07/Mizhnarodni-telegram-kanaly-pro-kryptu.png" alt="Screenshot-1" border="0" width="726">
+</p>
 ## About
 
 Данный проект парсит новости о криптовалюте с ресурса https://forklog.com и передает данные telegramm боту для размещения новостей в вашем Telegram-канале.

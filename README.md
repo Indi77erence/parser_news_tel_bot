@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="[https://static.nachasi.com/wp-content/uploads/2021/07/Mizhnarodni-telegram-kanaly-pro-kryptu.png](https://static.nachasi.com/wp-content/uploads/2021/07/Mizhnarodni-telegram-kanaly-pro-kryptu.png)" border="0" width="726">
+      <img src="https://static.nachasi.com/wp-content/uploads/2021/07/Mizhnarodni-telegram-kanaly-pro-kryptu.png" border="0" width="726">
 </p>
 ## About
 
